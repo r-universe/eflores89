@@ -1,0 +1,14 @@
+[
+  {
+    "package": "banxicoR",
+    "oncran": true
+  },
+  {
+    "package": "inegiR",
+    "oncran": true
+  },
+  {
+    "package": "nasadata",
+    "oncran": true
+  }
+]
