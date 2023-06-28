@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "banxicoR"]
 	path = banxicoR
 	url = https://github.com/eflores89/banxicor
-	shallow = true
-	registered = true
 [submodule "inegiR"]
 	path = inegiR
 	url = https://github.com/eflores89/inegir
-	shallow = true
-	registered = true
 [submodule "nasadata"]
 	path = nasadata
 	url = https://github.com/eflores89/nasadata
-	shallow = true
-	registered = true
