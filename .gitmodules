@@ -11,3 +11,6 @@
 [submodule "nasadata"]
 	path = nasadata
 	url = https://github.com/eflores89/nasadata
+[submodule "notionR"]
+	path = notionR
+	url = https://github.com/eflores89/notionr
