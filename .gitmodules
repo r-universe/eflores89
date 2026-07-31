@@ -5,9 +5,6 @@
 [submodule "banxicoR"]
 	path = banxicoR
 	url = https://github.com/eflores89/banxicor
-[submodule "inegiR"]
-	path = inegiR
-	url = https://github.com/eflores89/inegir
 [submodule "nasadata"]
 	path = nasadata
 	url = https://github.com/eflores89/nasadata
